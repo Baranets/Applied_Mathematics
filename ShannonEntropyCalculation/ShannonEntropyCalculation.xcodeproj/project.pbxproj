@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		50616F5C215F7A130034EA7B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50616F5B215F7A130034EA7B /* main.swift */; };
+		506350CD2166346000F708F3 /* Entropy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 506350CC2166346000F708F3 /* Entropy.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		50616F58215F7A130034EA7B /* PrimeMath1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PrimeMath1; sourceTree = BUILT_PRODUCTS_DIR; };
 		50616F5B215F7A130034EA7B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		506350CC2166346000F708F3 /* Entropy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Entropy.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				50616F5B215F7A130034EA7B /* main.swift */,
+				506350CC2166346000F708F3 /* Entropy.swift */,
 			);
 			path = ShannonEntropyCalculation;
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				50616F5C215F7A130034EA7B /* main.swift in Sources */,
+				506350CD2166346000F708F3 /* Entropy.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
